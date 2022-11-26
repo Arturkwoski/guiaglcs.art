@@ -281,9 +281,9 @@ tr {
 }
 @keyframes treme {
   0% {margin-left: 0;}
-  16% {margin-left: 4px;}
-  16% {margin-left: 0;}
-  75% {margin-left: -4px;}
+  10% {margin-left: 4px;}
+  10% {margin-left: 0;}
+  60% {margin-left: -4px;}
   100% {margin-left: 0;}
 }
 
