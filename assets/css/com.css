@@ -230,7 +230,7 @@ tr {
       width: 100%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
       padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
-      border-radius: 6px; 
+      border-radius: 7px; 
       background: #ffa500; 
       box-shadow: rgba(255, 255, 255, 3.0);
       text-decoration: none!important;
@@ -281,9 +281,9 @@ tr {
 }
 @keyframes treme {
   0% {margin-left: 0;}
-  25% {margin-left: 5px;}
-  50% {margin-left: 0;}
-  75% {margin-left: -5px;}
+  15% {margin-left: 4px;}
+  15% {margin-left: 0;}
+  75% {margin-left: -4px;}
   100% {margin-left: 0;}
 }
 
