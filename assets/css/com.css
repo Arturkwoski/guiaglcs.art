@@ -306,14 +306,13 @@ body, html {
 overflow-x: hidden!important;
 }
 }
-
 .marte {
- width: 0px ;
-  height: 5px;
-  min-height: 9px;
-  border-width: 7px;
-  background-size: 4px;
-  size: 2px;
+  width: 400px;
+  height: 115px;
+  min-height: 115px;
+  border-width: 20px;
+  background-size: 20px;
+  size: 20px;
   position:center;
   top: 0;
   background-position: center;
@@ -322,7 +321,6 @@ overflow-x: hidden!important;
   position: relative;
   padding-left:0px ;
   margin-left: 0rem;
-
-
 }
+
 
