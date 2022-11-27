@@ -310,16 +310,9 @@ overflow-x: hidden!important;
 
 
 .marte {
- height: 109px ;
+ height: 160px ;
  background-position: center;
  padding: 5px 5px;
 
 }
 
-.saturno{
-  size: 2px;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-
-}
