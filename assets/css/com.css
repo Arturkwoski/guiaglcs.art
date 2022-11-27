@@ -307,14 +307,13 @@ overflow-x: hidden!important;
 }
 }
 
-
-
-
 .marte {
   width:415px ;
   height: 116px;
-  min-height: 125px;
-  border-width: 120px;
+  min-height: 110px;
+  border-width: 110px;
+  background-size: 80px;
+  size: 20px;
   position:center;
   top: 0;
   background-position: center;
