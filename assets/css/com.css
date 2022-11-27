@@ -309,11 +309,12 @@ overflow-x: hidden!important;
 
 
 
+
 .marte {
-  width:425px ;
-  height: 125px;
-  min-height: 130px;
-  border-width: 128px;
+  width:415px ;
+  height: 116px;
+  min-height: 125px;
+  border-width: 120px;
   position:center;
   top: 0;
   background-position: center;
@@ -325,13 +326,4 @@ overflow-x: hidden!important;
 
 }
 
-.saturno{
-  width:340px ;
-  height: 125px;
-  min-height: 130px;
-  border-width: 128px;
-  padding:3px 45px 19px;
-  background-position: center;
-  position: relative;
 
-}
