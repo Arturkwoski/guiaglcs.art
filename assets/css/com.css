@@ -306,8 +306,9 @@ body, html {
 overflow-x: hidden!important;
 }
 }
+
 .marte {
-height: 100px ;
+height: 50px ;
 background-position: center;
 background-size: cover;
 background-attachment: fixed;
