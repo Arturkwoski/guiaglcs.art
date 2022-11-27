@@ -307,20 +307,11 @@ overflow-x: hidden!important;
 }
 }
 .marte {
-  width: 110px;
-  height: 109px;
-  min-height: 109px;
-  border-width: 20px;
-  background-size: 20px;
-  size: 20px;
-  position:center;
-  top: 0;
-  background-position: center;
-  background-attachment: fixed;
-  padding:3px 39px 19px;
-  position: relative;
-  padding-left:0px ;
-  margin-left: 0rem;
+height: 100px ;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
 }
 
 
