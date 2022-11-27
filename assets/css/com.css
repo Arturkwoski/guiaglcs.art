@@ -27,7 +27,7 @@ body {
 
 .fb-comments {
   border: 19px solid #e9ebee;
-  border-radius: 15px;
+  border-radius: 17px;
   padding: 0 15px;
   padding-bottom: 15px;
   margin: auto;
@@ -229,7 +229,7 @@ tr {
       box-shadow: black; 
       width: 100%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
-      padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
+      padding: 24px 35px; border-color: #ff5535; border-width: 0px; 
       border-radius: 7px; 
       background: #ffa500; 
       box-shadow: rgba(255, 255, 255, 3.0);
@@ -276,13 +276,13 @@ tr {
     }
 .a-btn {
     
-    animation: treme 0.9s;
+    animation: treme 0.8s;
     animation-iteration-count: infinite;
 }
 @keyframes treme {
   0% {margin-left: 0;}
-  3% {margin-left: 4px;}
-  3% {margin-left: 0;}
+  1% {margin-left: 4px;}
+  1% {margin-left: 0;}
   60% {margin-left: -4px;}
   100% {margin-left: 0;}
 }
@@ -305,4 +305,33 @@ overflow-x: hidden !important;
 body, html {
 overflow-x: hidden!important;
 }
+}
+
+
+
+.marte {
+  width:425px ;
+  height: 125px;
+  min-height: 130px;
+  border-width: 128px;
+  position:center;
+  top: 0;
+  background-position: center;
+  background-attachment: fixed;
+  padding:3px 39px 19px;
+  position: relative;
+  padding-left:0px ;
+  margin-left: 0rem;
+
+}
+
+.saturno{
+  width:340px ;
+  height: 125px;
+  min-height: 130px;
+  border-width: 128px;
+  padding:3px 45px 19px;
+  background-position: center;
+  position: relative;
+
 }
